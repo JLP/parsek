@@ -1,0 +1,167 @@
+<ui version="4.0" >
+ <class>LoggerWidget</class>
+ <widget class="QWidget" name="LoggerWidget" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>418</width>
+    <height>213</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Log</string>
+  </property>
+  <layout class="QVBoxLayout" >
+   <item>
+    <layout class="QHBoxLayout" >
+     <item>
+      <widget class="QCheckBox" name="errorsCheckBox" >
+       <property name="enabled" >
+        <bool>false</bool>
+       </property>
+       <property name="toolTip" >
+        <string>Toggle display of error messages</string>
+       </property>
+       <property name="text" >
+        <string>&amp;Errors</string>
+       </property>
+       <property name="checked" >
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="warningsCheckBox" >
+       <property name="enabled" >
+        <bool>false</bool>
+       </property>
+       <property name="toolTip" >
+        <string>Toggle display of warning messages</string>
+       </property>
+       <property name="text" >
+        <string>&amp;Warnings</string>
+       </property>
+       <property name="checked" >
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="infoCheckBox" >
+       <property name="enabled" >
+        <bool>false</bool>
+       </property>
+       <property name="toolTip" >
+        <string>Toggle display of info messages</string>
+       </property>
+       <property name="text" >
+        <string>&amp;Info</string>
+       </property>
+       <property name="checked" >
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <widget class="QCheckBox" name="debugCheckBox" >
+       <property name="enabled" >
+        <bool>false</bool>
+       </property>
+       <property name="toolTip" >
+        <string>Toggle display of debug messages</string>
+       </property>
+       <property name="text" >
+        <string>&amp;Debug</string>
+       </property>
+       <property name="checked" >
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item>
+      <spacer>
+       <property name="orientation" >
+        <enum>Qt::Horizontal</enum>
+       </property>
+       <property name="sizeHint" >
+        <size>
+         <width>40</width>
+         <height>20</height>
+        </size>
+       </property>
+      </spacer>
+     </item>
+     <item>
+      <widget class="KPushButton" name="clearButton" >
+       <property name="toolTip" >
+        <string>Clear all log messages</string>
+       </property>
+       <property name="text" >
+        <string>&amp;Clear</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item>
+    <widget class="KTextEdit" name="logView" >
+     <property name="cursor" stdset="0" >
+      <cursorShape>IBeamCursor</cursorShape>
+     </property>
+     <property name="acceptDrops" >
+      <bool>false</bool>
+     </property>
+     <property name="toolTip" >
+      <string>Log messages are displayed here</string>
+     </property>
+     <property name="lineWrapMode" >
+      <enum>QTextEdit::NoWrap</enum>
+     </property>
+     <property name="readOnly" >
+      <bool>true</bool>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>KPushButton</class>
+   <extends>QPushButton</extends>
+   <header>kpushbutton.h</header>
+  </customwidget>
+  <customwidget>
+   <class>KTextEdit</class>
+   <extends>QTextEdit</extends>
+   <header>ktextedit.h</header>
+  </customwidget>
+ </customwidgets>
+ <tabstops>
+  <tabstop>errorsCheckBox</tabstop>
+  <tabstop>warningsCheckBox</tabstop>
+  <tabstop>infoCheckBox</tabstop>
+  <tabstop>debugCheckBox</tabstop>
+  <tabstop>clearButton</tabstop>
+  <tabstop>logView</tabstop>
+ </tabstops>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>clearButton</sender>
+   <signal>clicked()</signal>
+   <receiver>logView</receiver>
+   <slot>clear()</slot>
+   <hints>
+    <hint type="sourcelabel" >
+     <x>389</x>
+     <y>27</y>
+    </hint>
+    <hint type="destinationlabel" >
+     <x>304</x>
+     <y>105</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

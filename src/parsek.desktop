@@ -1,0 +1,15 @@
+[Desktop Entry]
+Icon=parsek
+Name=Parsek
+Exec=parsek
+Type=Application
+GenericName=Galactic Strategy Game
+GenericName[et]=Galaktiline strateegiamäng
+GenericName[sv]=Galaktiskt strategispel
+Comment=Play 4X strategy games where you build a space empire
+Comment[et]=4X strateegiamäng, kus saab luua kosmoseimpeeriumi
+Comment[sv]=Spela 4X strategispel där du bygger upp ett rymdimperium
+Terminal=false
+X-DocPath=parsek/index.html
+X-KDE-StartupNotify=true
+Categories=Qt;KDE;Game;StrategyGame;

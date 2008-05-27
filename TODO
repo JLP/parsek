@@ -1,0 +1,16 @@
+Parsek
+--------------------
+
+General
+- Display map of universe
+- Create nice interface for messages
+- Display object properties
+- Display object orders
+- Creating/editing messages
+- Creating/editing orders
+
+Logger Widget
+- Toggling of log messege types
+
+Main Window
+- Stay responsive during connecting

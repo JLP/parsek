@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docbase="/home/rene/Desktop/Jure - Parsek"
+   sodipodi:docname="default_theme.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="236.64941"
+     inkscape:cy="916.58212"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="979"
+     inkscape:window-x="0"
+     inkscape:window-y="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Default Theme for Parsek</dc:title>
+        <dc:date>2007-11-25</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jure Repinc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Jure Repinc</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Jure Repinc</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-US</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>parsek planets space ships theme default</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/2.5/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="planet_enemy"
+       sodipodi:cx="66.00042"
+       sodipodi:cy="43.20594"
+       sodipodi:rx="20.529085"
+       sodipodi:ry="20.529085"
+       d="M 86.529505 43.20594 A 20.529085 20.529085 0 1 1  45.471334,43.20594 A 20.529085 20.529085 0 1 1  86.529505 43.20594 z"
+       transform="matrix(1.5587641,0,0,1.5587641,72.526542,40.401138)" />
+    <path
+       d="M 86.529505 43.20594 A 20.529085 20.529085 0 1 1  45.471334,43.20594 A 20.529085 20.529085 0 1 1  86.529505 43.20594 z"
+       sodipodi:ry="20.529085"
+       sodipodi:rx="20.529085"
+       sodipodi:cy="43.20594"
+       sodipodi:cx="66.00042"
+       id="planet_neutral"
+       style="opacity:1;fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc"
+       transform="matrix(1.5587641,0,0,1.5587641,151.52654,40.401138)" />
+    <path
+       transform="matrix(1.5587641,0,0,1.5587641,230.52655,40.401143)"
+       sodipodi:type="arc"
+       style="opacity:1;fill:#b1d28f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="planet_friendly"
+       sodipodi:cx="66.00042"
+       sodipodi:cy="43.20594"
+       sodipodi:rx="20.529085"
+       sodipodi:ry="20.529085"
+       d="M 86.529505 43.20594 A 20.529085 20.529085 0 1 1  45.471334,43.20594 A 20.529085 20.529085 0 1 1  86.529505 43.20594 z" />
+    <path
+       d="M 86.529505 43.20594 A 20.529085 20.529085 0 1 1  45.471334,43.20594 A 20.529085 20.529085 0 1 1  86.529505 43.20594 z"
+       sodipodi:ry="20.529085"
+       sodipodi:rx="20.529085"
+       sodipodi:cy="43.20594"
+       sodipodi:cx="66.00042"
+       id="planet_own"
+       style="opacity:1;fill:#37a42c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="arc"
+       transform="matrix(1.5587641,0,0,1.5587641,309.52655,40.401138)" />
+    <path
+       style="fill:#ff8080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 207.40563,186.78796 L 143.40562,159.99129 L 165.26924,186.68673 L 143.40562,213.50674 L 207.40563,186.78796 z "
+       id="ship_enemy"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="ship_neutral"
+       d="M 286.40564,186.78795 L 222.40564,159.99128 L 244.26925,186.68672 L 222.40564,213.50673 L 286.40564,186.78795 z "
+       style="fill:#dddddd;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       style="fill:#b1d28f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 365.40564,186.78796 L 301.40563,159.99129 L 323.26924,186.68673 L 301.40563,213.50674 L 365.40564,186.78796 z "
+       id="ship_friendly"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       id="ship_own"
+       d="M 444.40564,186.78796 L 380.40563,159.99129 L 402.26924,186.68673 L 380.40563,213.50674 L 444.40564,186.78796 z "
+       style="fill:#37a42c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7078"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       transform="translate(36.005896,-0.3535534)"><flowRegion
+         id="flowRegion7080"><rect
+           id="rect7082"
+           width="73.539108"
+           height="22.98097"
+           x="20.152544"
+           y="97.414474"
+           style="font-size:20px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara7084">Planets</flowPara></flowRoot>    <flowRoot
+       transform="translate(-9.9706669,77.06066)"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       id="flowRoot8055"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8057"><rect
+           style="font-size:20px;fill:#ffffff;fill-opacity:1"
+           y="97.414474"
+           x="20.152544"
+           height="25.455845"
+           width="120.91526"
+           id="rect8059" /></flowRegion><flowPara
+         id="flowPara8061">Space ships</flowPara></flowRoot>    <flowRoot
+       transform="translate(115.1809,-55.906717)"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       id="flowRoot8067"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8069"><rect
+           style="font-size:20px;fill:#ffffff;fill-opacity:1"
+           y="97.414474"
+           x="20.152544"
+           height="22.98097"
+           width="73.539108"
+           id="rect8071" /></flowRegion><flowPara
+         id="flowPara8073">Enemy</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8075"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       transform="translate(193.1809,-55.906717)"><flowRegion
+         id="flowRegion8077"><rect
+           id="rect8079"
+           width="73.892662"
+           height="22.627417"
+           x="20.152544"
+           y="97.414474"
+           style="font-size:20px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8081">Neutral</flowPara></flowRoot>    <flowRoot
+       transform="translate(275.1809,-55.906717)"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       id="flowRoot8083"
+       xml:space="preserve"><flowRegion
+         id="flowRegion8085"><rect
+           style="font-size:20px;fill:#ffffff;fill-opacity:1"
+           y="97.414474"
+           x="20.152544"
+           height="22.627417"
+           width="80.610176"
+           id="rect8087" /></flowRegion><flowPara
+         id="flowPara8089">Friendly</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8091"
+       style="font-size:20px;fill:#ffffff;fill-opacity:1"
+       transform="translate(369.1809,-55.906717)"><flowRegion
+         id="flowRegion8093"><rect
+           id="rect8095"
+           width="46.315498"
+           height="24.04163"
+           x="20.152544"
+           y="97.414474"
+           style="font-size:20px;fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8097">Own</flowPara></flowRoot>  </g>
+</svg>
